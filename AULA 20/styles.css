@@ -1,0 +1,61 @@
+h1{
+    color: rgb(241, 245, 240);
+}
+.titulo2{
+    color: rgba(195, 197, 195, 0.961);
+}
+body{
+    background-color:rgb(4, 9, 117)
+}
+h4{
+    color: rgb(246, 240, 246);
+}
+button{
+    background-color: rgb(17, 182, 67);
+    border: none;
+    color: rgb(228, 6, 177);
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px;
+    border-radius: 15px;
+}
+button:hover {
+    background-color: black;
+}
+
+#imagem{
+    display: none;
+    max-width: 100%;
+    height: auto;
+}
+
+.btnTecla{
+    background-color: blueviolet;
+    color: rgb(243, 234, 234);
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px;
+    border-radius: 15px;
+}
+
+.btnTecla:hover {
+    background-color: black;
+}
+
+.btnTime {
+    background-color: brown;
+    color: rgb(240, 231, 231);
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px;
+    border-radius: 15px;
+}
+
+.btnTime:hover {
+    background-color: black;
+}
