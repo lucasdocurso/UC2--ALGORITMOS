@@ -1,0 +1,5 @@
+const frase = (' isso é importante para o impedimento')
+const novaFrase = frase.replaceAll("o", "i")
+console.log(frase.toLocaleUpperCase())
+console.log(novaFrase)
+console.log("essa frase contém" , frase.length, "caracteres")
